@@ -1,0 +1,31 @@
+Intro Sheet
+My name is Sashank Penugonda, and I have 10+ years of experience in Infrastructure Engineering, DevOps, Cloud, Monitoring, Build/Release Management, Infrastructure Automation, and Change/Incident Management.
+
+I have worked on CI/CD pipelines using Azure DevOps, Terraform, Kubernetes, Jenkins, AWS CodePipeline, and AWS CodeDeploy to enable automated builds, tests, and deployments.
+
+I have developed infrastructure automation using Terraform, Ansible, and PowerShell DSC to ensure scalability, reliability, and cost-effectiveness in cloud environments.
+
+I have implemented security policies, performed security assessments, and automated compliance enforcement across AWS and Azure environments.
+
+In my current organization, Fidelity Investments, I am working on designing application architectures, implementing containerization strategies with Kubernetes, managing CI/CD pipelines, and ensuring cloud security and compliance.
+
+I have configured and maintained Azure DevOps repositories for version control, enabling seamless collaboration with development teams for efficient code management and rollbacks.
+
+I have developed PowerShell and Python scripts to automate deployment pipelines, configuration management, and cloud infrastructure provisioning on AWS and Azure.
+
+I have monitored applications and infrastructure using Grafana, Prometheus, Splunk, AppDynamics, and AWS CloudWatch, ensuring proactive issue resolution and performance optimization.
+
+I have worked on containerized deployments using Docker and Kubernetes and implemented automated rollback strategies to maintain service availability.
+
+I have hands-on experience in Azure networking, configuring Azure security policies, Active Directory, Blob storage, Cosmos DB, and Virtual Machine Scale Sets (VMSS) for high availability.
+
+I have led incident response efforts, conducted root cause analysis for critical production incidents, and implemented proactive monitoring solutions.
+
+I have integrated JIRA, ServiceNow, and Artifactory with CI/CD tools to improve traceability, communication, and reporting within development workflows.
+
+I have designed and implemented AWS infrastructure using Terraform, ensuring scalability, security, and cost-efficiency.
+
+I have extensive experience in backup and restore strategies for Azure services, including disaster recovery planning and execution.
+
+I hold certifications in AWS Certified SysOps Administrator and AWS Certified Developer Associate, showcasing my expertise in cloud infrastructure and automation.
+
